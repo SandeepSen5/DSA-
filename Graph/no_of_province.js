@@ -29,4 +29,4 @@ function findCircleNum(isConnected) {
     [0, 0, 1]
   ];
   
-  console.log(findCircleNum(isConnected)); // Output: 2
+  console.log(findCircleNum(isConnected)); 
